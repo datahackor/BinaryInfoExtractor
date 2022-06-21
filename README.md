@@ -1,5 +1,5 @@
 # BinaryInfoExtractor
-来自：
+BinaryInfoExtractor  主要来自：
 https://github.com/mrfarhadi/IDA_Plugin
 
 - BinaryInfoExtractor 的Python 3.x 修正
